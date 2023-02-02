@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-01.md",
+                "file": "2023-02-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-01.md",
+                "file": "2023-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-01.md",
+                "file": "2023-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-01.md"
+                "file": "2023-02-02.md"
               }
             }
           },
@@ -199,12 +198,12 @@
   },
   "active": "b2f61be0fbc2e0ad",
   "lastOpenFiles": [
-    "Заметки/Заметка 1.md",
+    "Conspects/Git/Как работать с командной строкой.md",
     "2023-02-01.md",
+    "Заметки/Заметка 1.md",
     "2023-02-02.md",
     "Дизайн проекта.md",
     "Conspects/Linux/Команды Linux.md",
-    "Conspects/Git/Как работать с командной строкой.md",
     "Untitled.md"
   ]
 }
