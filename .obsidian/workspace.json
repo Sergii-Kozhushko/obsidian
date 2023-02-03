@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой Git.md",
+                "file": "Conspects/Git/Командная строка Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой Git.md",
+                "file": "Conspects/Git/Командная строка Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой Git.md",
+                "file": "Conspects/Git/Командная строка Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой Git.md",
+                "file": "Conspects/Git/Командная строка Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой Git.md"
+                "file": "Conspects/Git/Командная строка Git.md"
               }
             }
           },
@@ -211,13 +211,14 @@
   },
   "active": "803cbf0ea8333e7b",
   "lastOpenFiles": [
+    "Conspects/Linux/Команды Linux.md",
+    "Conspects/Git/Командная строка Git.md",
+    "Одноразово создать локально.md",
     "Untitled.md",
     "ТЗ.md",
     "2023-02-02.md",
-    "Conspects/Git/Как работать с командной строкой Git.md",
     "2023-02-01.md",
     "Заметки/Заметка 1.md",
-    "Дизайн проекта.md",
-    "Conspects/Linux/Команды Linux.md"
+    "Дизайн проекта.md"
   ]
 }
