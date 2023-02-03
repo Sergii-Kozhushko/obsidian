@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "803cbf0ea8333e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Git/Как работать с командной строкой Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ffbc881c791fc6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspects/Git/Как работать с командной строкой.md",
+                "file": "Conspects/Git/Как работать с командной строкой Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "Conspects/Git/Как работать с командной строкой Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "Conspects/Git/Как работать с командной строкой Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-02.md"
+                "file": "Conspects/Git/Как работать с командной строкой Git.md"
               }
             }
           },
@@ -196,14 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2f61be0fbc2e0ad",
+  "active": "803cbf0ea8333e7b",
   "lastOpenFiles": [
-    "Conspects/Git/Как работать с командной строкой.md",
+    "Untitled.md",
+    "ТЗ.md",
+    "2023-02-02.md",
+    "Conspects/Git/Как работать с командной строкой Git.md",
     "2023-02-01.md",
     "Заметки/Заметка 1.md",
-    "2023-02-02.md",
     "Дизайн проекта.md",
-    "Conspects/Linux/Команды Linux.md",
-    "Untitled.md"
+    "Conspects/Linux/Команды Linux.md"
   ]
 }
