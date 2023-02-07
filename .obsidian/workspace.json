@@ -32,6 +32,89 @@
             }
           },
           {
+            "id": "262fafae5be7bb5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "501ca8278a0e4e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Все пропало.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8f7217b215664b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Git/Командная строка Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e7772e1fd39cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/QA/Лекция 03.02.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ef2324678512f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Postgres/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c926a448af4e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Postgres/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ff7e74e594c1e9b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Conspects/Postgres/SQL.md",
+                "staged": true
+              }
+            }
+          },
+          {
             "id": "ffbc881c791fc6cf",
             "type": "leaf",
             "state": {
@@ -56,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -122,7 +205,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conspects/Git/Командная строка Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +221,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conspects/Git/Командная строка Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +242,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Conspects/Git/Командная строка Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,16 +288,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "803cbf0ea8333e7b",
+  "active": "9ff7e74e594c1e9b",
   "lastOpenFiles": [
-    "Conspects/Linux/Команды Linux.md",
+    "Conspects/Postgres/SQL.md",
+    "Conspects/Postgres/Login, pass.md",
+    "Conspects/Postgres/Links.md",
+    "Вопросы Javabegin.md",
+    "Conspects/QA/Лекция 03.02.23.md",
+    "Conspects/Front/Links.md",
     "Conspects/Git/Командная строка Git.md",
-    "Одноразово создать локально.md",
-    "Untitled.md",
-    "ТЗ.md",
-    "2023-02-02.md",
-    "2023-02-01.md",
-    "Заметки/Заметка 1.md",
-    "Дизайн проекта.md"
+    "Conspects/Linux/Команды Linux.md",
+    "Все пропало.md",
+    "2023-02-04.md"
   ]
 }
