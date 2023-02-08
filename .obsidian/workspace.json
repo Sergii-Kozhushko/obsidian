@@ -107,10 +107,47 @@
             "id": "9ff7e74e594c1e9b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Conspects/Postgres/SQL.md",
-                "staged": true
+                "file": "Conspects/Linux/Команды Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cedf672369d39076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Front/JS Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "300db94cdbf7d06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Java/Вопросы Javabegin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0df0f4f18d4bcb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Postgres/Login, pass.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -139,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -205,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Conspects/Postgres/Login, pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conspects/Postgres/Login, pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +281,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Conspects/Postgres/Login, pass.md"
+              }
             }
           },
           {
@@ -288,17 +329,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ff7e74e594c1e9b",
+  "active": "e0df0f4f18d4bcb8",
   "lastOpenFiles": [
+    "Conspects/Java/Вопросы Javabegin.md",
+    "Conspects/Java/Links.md",
+    "Conspects/Java/Javabegin вопросы.md",
+    "Conspects/Front/JS Commands.md",
+    "Conspects/Linux/Команды Linux.md",
+    "Conspects/Front/Links.md",
     "Conspects/Postgres/SQL.md",
     "Conspects/Postgres/Login, pass.md",
     "Conspects/Postgres/Links.md",
-    "Вопросы Javabegin.md",
-    "Conspects/QA/Лекция 03.02.23.md",
-    "Conspects/Front/Links.md",
-    "Conspects/Git/Командная строка Git.md",
-    "Conspects/Linux/Команды Linux.md",
-    "Все пропало.md",
-    "2023-02-04.md"
+    "Conspects/QA/Лекция 03.02.23.md"
   ]
 }

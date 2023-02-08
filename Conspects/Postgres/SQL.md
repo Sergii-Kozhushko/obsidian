@@ -38,7 +38,8 @@ $GEN_DATA$
 
 **Обнуление автоинкрементов**
 ```sql
-TRUNCATE table todolistm.task, todolistm.priority, todolistm.category, todolistm.user_data, todolistm.stat, todolistm.user_role, todolistm.activity RESTART IDENTITY
+TRUNCATE table todolistm.task, todolistm.priority, todolistm.category,
+todolistm.user_data, todolistm.stat, todolistm.user_role, todolistm.activity RESTART IDENTITY
 
 ```
 

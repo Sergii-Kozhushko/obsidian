@@ -66,6 +66,7 @@ Alt-6 - скопировать
 Ctrl-U - вставить
 
 -BASH
+```bash
 #!/bin/bash - писать в начале фалй скрипта
 echo "Home for the current user is: $HOME"
 grade=5
@@ -73,6 +74,9 @@ person="Adam"
 echo "$person is a good boy, he is in grade $grade"
 mydir=`pwd`
 echo $mydir - #выполнить команду
+VAR = $(($VAR-1)) - декремент
+DIR = $(pwd) - закинуть в переменную результат команды
+ls -l /etc/passwd | awk '{print $1}' - выбрать 1-ю колонку
 
 user=operator123
 if grep $user /etc/passwd
@@ -81,15 +85,19 @@ echo "The user $user Exists"
 else
 echo "The user $user doesn’t exist"
 fi
+```
+
+
 
 
 -OTHER
 cat /dev/random | head -5 > file.txt - читает 5 строчек из файла random (устройстов генерации случайных команд) и перезаписывает их (не дополняет) в файл 
-https://www.thc.org/segfault/ - тестовый сервер с рутом
-https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192 - песочница
 ctr-l -  очистить экран
 
 -LINKS
+https://www.thc.org/segfault/ - тестовый сервер с рутом
+https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192 - песочница
+
 Прокси:
 proxifier
 nord vpn
