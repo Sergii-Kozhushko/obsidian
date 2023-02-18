@@ -1,0 +1,1 @@
+TRUNCATE table todolistm.task, todolistm.priority, todolistm.category, todolistm.user_data, todolistm.activity, todolistm.stat, todolistm.user_role RESTART IDENTITY
