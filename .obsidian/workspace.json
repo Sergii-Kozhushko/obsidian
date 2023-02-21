@@ -229,6 +229,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Одноразово создать локально.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "690a0c1dcd32a478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Conspects/Git/Командная строка Git (мой конспект).md",
                 "mode": "source",
                 "source": false
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -413,17 +425,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8798202a98305cc",
+  "active": "690a0c1dcd32a478",
   "lastOpenFiles": [
     "Conspects/Git/Конспект GIT.md",
-    "Conspects/Git/Подробный конспект.md",
-    "Conspects/Git/Командная строка Git (мой конспект).md",
-    "Conspects/Git/Drawing 2023-02-18 23.41.43.excalidraw.md",
-    "Conspects/Javabegin/Вопросы Timur.md",
+    "Conspects/Postgres/SQL.md",
+    "Conspects/Linux/Команды Linux.md",
     "Conspects/QA/Links.md",
-    "Conspects/Front/Links.md",
-    "Conspects/Front/JS Commands.md",
-    "Conspects/Javabegin/Links.md",
-    "Conspects/Javabegin/Trancate Cascade + обнуление счетчиков автоинкремента.md"
+    "Untitled 1.md",
+    "Untitled.md",
+    "Conspects/Javabegin/Вопросы Timur.md",
+    "Conspects/Javabegin/Добавление  тестовых данных пользователей.md",
+    "Conspects/Javabegin/Trancate Cascade + обнуление счетчиков автоинкремента.md",
+    "Одноразово создать локально.md"
   ]
 }
