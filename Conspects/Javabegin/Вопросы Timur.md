@@ -11,3 +11,9 @@ Support for the PostgreSQL database, version 9. May work with later versions.```
 8. Как посмотреть реализацию метода Session.persist? Переводит на интерфейс и все
 9. выдает ошибку при попытке удалить пользователя "ERROR: insert or update on table "category" violates foreign key constraint "user_fkey" DETAIL: Key (user_id)=(5605) is not present in table "user_data". CONTEXT: SQL statement "UPDATE todolistm.category SET uncompleted_count=(coalesce(uncompleted_count,0)-1) WHERE id=OLD.category_id AND user_id=OLD.user_id" PL/pgSQL function todolistm.delete_task_trigger() line 10 at SQL statement SQL statement "DELETE FROM ONLY "todolistm"."task" WHERE $1 OPERATOR(pg_catalog.=) "user_id"" SQL state: 23503"
 10. Не выводятся параметры запроса в консоль Main
+11. Урок связь многие-ко многим. Убрали связь со стороны ролес и что? Так и оставить?
+12. На что влияет ```
+```json
+<property name="hibernate.cache.region.factory_class">org.hibernate.cache.jcache.internal.JCacheRegionFactory</property>
+```
+?
